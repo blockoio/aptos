@@ -15,8 +15,7 @@ The GEM Project aims to build a digital currency ecosystem that can maintain sta
 
 **🧑‍🤝‍🧑 Partner introduction**
 
-**Blocko** : Blocko is blockchain specialist MSP preparing to become the first blockchain company to be listed on KOSDAQ for technical special treatment (<https://en.blocko.io>)
-
+- **Blocko** : Blocko is blockchain specialist MSP preparing to become the first blockchain company to be listed on KOSDAQ for technical special treatment (<https://en.blocko.io>)
 - **BlockoXYZ:** Blocko XYZ is an NFT issuance service provider that operates CCCV, an NFT issuance technology that has secured the largest number of NFT mints in Korea. (<https://www.blocko.xyz>)
 - **Lotte Daehong :** Daehong Communications is a South Korean advertising company and a comprehensive advertising agency affiliated with the Lotte Group.
 - **FSN** : Excluding marketing companies affiliated with large corporations, FSN is the largest digital marketing group among domestic listed companies and has a network of subsidiaries in Southeast Asia, including Korea, Thailand, Vietnam, Singapore, Taiwan, and China. 

@@ -1,4 +1,4 @@
-# aptos**Global\_E\_Money\_flatcoin\_project**
+# Global\_E\_Money\_flatcoin\_project
 
 Global-E-money (GEM Token) is a P2P flat coin project that started in sympathy with the ideas of Libra at the start of Aptos.
 

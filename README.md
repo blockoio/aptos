@@ -25,4 +25,4 @@ The GEM Project aims to build a digital currency ecosystem that can maintain sta
 
 ![assetbasket](https://github.com/user-attachments/assets/e242c086-fb4e-4703-93e6-fc80f223bf35)
 
-![gemprotocol-seigniorage_simple drawio](https://github.com/user-attachments/assets/b6235c70-5385-484e-bd2a-72ac12fb0c4f)
+![seigniorage](https://github.com/user-attachments/assets/48c8d572-2f6d-4a5b-81e7-3d088a5dc436)

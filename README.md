@@ -13,7 +13,7 @@ The GEM Project aims to build a digital currency ecosystem that can maintain sta
 - Greenlight algorithm (smart Oracle)
 #### Powered by Blocko
 - GEM.pay (PG module)
-- GEM.verse (Interface-driven business process automation platform with AI)
+- GEM.verse (Interface-driven business process automation platform with AI - <https://verse.blocko.io/>)
 #### Powered by Blocko.XYZ
 - CCCV (NFT builder - <https://nft.cccv.to>)
 
